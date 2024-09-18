@@ -1,0 +1,440 @@
+------------------
+Pokemon: clefable
+Altura: 130 centimetros
+Peso: 40 kilos
+
+ Habilidades:
+ * Gran
+ * Muro
+ * Ignorante
+------------------
+
+------------------
+Pokemon: wigglytuff
+Altura: 100 centimetros
+Peso: 12 kilos
+
+ Habilidades:
+ * Gran
+ * Tenacidad
+ * Cacheo
+------------------
+
+------------------
+Pokemon: mr-mime
+Altura: 130 centimetros
+Peso: 54 kilos
+
+ Habilidades:
+ * Insonorizar
+ * Filtro
+ * Experto
+------------------
+
+------------------
+Pokemon: granbull
+Altura: 140 centimetros
+Peso: 48 kilos
+
+ Habilidades:
+ * Intimidación
+ * Pies
+ * Cobardía
+------------------
+
+------------------
+Pokemon: gardevoir
+Altura: 160 centimetros
+Peso: 48 kilos
+
+ Habilidades:
+ * Sincronía
+ * Rastro
+ * Telepatía
+------------------
+
+------------------
+Pokemon: togekiss
+Altura: 150 centimetros
+Peso: 38 kilos
+
+ Habilidades:
+ * Entusiasmo
+ * Dicha
+ * Afortunado
+------------------
+
+------------------
+Pokemon: whimsicott
+Altura: 70 centimetros
+Peso: 6 kilos
+
+ Habilidades:
+ * Bromista
+ * Allanamiento
+ * Clorofila
+------------------
+
+------------------
+Pokemon: florges
+Altura: 110 centimetros
+Peso: 10 kilos
+
+ Habilidades:
+ * Velo
+ * Simbiosis
+------------------
+
+------------------
+Pokemon: aromatisse
+Altura: 80 centimetros
+Peso: 15 kilos
+
+ Habilidades:
+ * Alma
+ * Velo
+------------------
+
+------------------
+Pokemon: slurpuff
+Altura: 80 centimetros
+Peso: 5 kilos
+
+ Habilidades:
+ * Velo
+ * Liviano
+------------------
+
+------------------
+Pokemon: sylveon
+Altura: 100 centimetros
+Peso: 23 kilos
+
+ Habilidades:
+ * Gran
+ * Piel
+------------------
+
+------------------
+Pokemon: dedenne
+Altura: 20 centimetros
+Peso: 2 kilos
+
+ Habilidades:
+ * Carrillo
+ * Recogida
+ * Más
+------------------
+
+------------------
+Pokemon: carbink
+Altura: 30 centimetros
+Peso: 5 kilos
+
+ Habilidades:
+ * Cuerpo
+ * Robustez
+------------------
+
+------------------
+Pokemon: klefki
+Altura: 20 centimetros
+Peso: 3 kilos
+
+ Habilidades:
+ * Bromista
+ * Prestidigitador
+------------------
+
+------------------
+Pokemon: xerneas
+Altura: 300 centimetros
+Peso: 215 kilos
+
+ Habilidades:
+ * Aura
+------------------
+
+------------------
+Pokemon: diancie
+Altura: 70 centimetros
+Peso: 8 kilos
+
+ Habilidades:
+ * Cuerpo
+------------------
+
+------------------
+Pokemon: primarina
+Altura: 180 centimetros
+Peso: 44 kilos
+
+ Habilidades:
+ * Torrente
+ * Voz
+------------------
+
+------------------
+Pokemon: ribombee
+Altura: 20 centimetros
+Peso: 0 kilos
+
+ Habilidades:
+ * Recogemiel
+ * Polvo
+ * Velo
+------------------
+
+------------------
+Pokemon: comfey
+Altura: 10 centimetros
+Peso: 0 kilos
+
+ Habilidades:
+ * Velo
+ * Primer
+ * Cura
+------------------
+
+------------------
+Pokemon: mimikyu-disguised
+Altura: 20 centimetros
+Peso: 0 kilos
+
+ Habilidades:
+ * Disfraz
+------------------
+
+------------------
+Pokemon: tapu-koko
+Altura: 180 centimetros
+Peso: 20 kilos
+
+ Habilidades:
+ * Electrogénesis
+ * Telepatía
+------------------
+
+------------------
+Pokemon: tapu-lele
+Altura: 120 centimetros
+Peso: 18 kilos
+
+ Habilidades:
+ * Psicogénesis
+ * Telepatía
+------------------
+
+------------------
+Pokemon: tapu-bulu
+Altura: 190 centimetros
+Peso: 45 kilos
+
+ Habilidades:
+ * Herbogénesis
+ * Telepatía
+------------------
+
+------------------
+Pokemon: tapu-fini
+Altura: 130 centimetros
+Peso: 21 kilos
+
+ Habilidades:
+ * Nebulogénesis
+ * Telepatía
+------------------
+
+------------------
+Pokemon: magearna
+Altura: 100 centimetros
+Peso: 80 kilos
+
+ Habilidades:
+ * Coránima
+------------------
+
+------------------
+Pokemon: hatterene
+Altura: 210 centimetros
+Peso: 5 kilos
+
+ Habilidades:
+ * Alma
+ * Anticipación
+ * Espejo
+------------------
+
+------------------
+Pokemon: grimmsnarl
+Altura: 150 centimetros
+Peso: 61 kilos
+
+ Habilidades:
+ * Bromista
+ * Cacheo
+ * Hurto
+------------------
+
+------------------
+Pokemon: alcremie
+Altura: 30 centimetros
+Peso: 0 kilos
+
+ Habilidades:
+ * Velo
+ * Velo
+------------------
+
+------------------
+Pokemon: zacian
+Altura: 280 centimetros
+Peso: 110 kilos
+
+ Habilidades:
+ * Espada
+------------------
+
+------------------
+Pokemon: gardevoir-mega
+Altura: 160 centimetros
+Peso: 48 kilos
+
+ Habilidades:
+ * Piel
+------------------
+
+------------------
+Pokemon: mawile-mega
+Altura: 100 centimetros
+Peso: 23 kilos
+
+ Habilidades:
+ * Potencia
+------------------
+
+------------------
+Pokemon: floette-eternal
+Altura: 20 centimetros
+Peso: 0 kilos
+
+ Habilidades:
+ * Velo
+ * Simbiosis
+------------------
+
+------------------
+Pokemon: altaria-mega
+Altura: 150 centimetros
+Peso: 20 kilos
+
+ Habilidades:
+ * Piel
+------------------
+
+------------------
+Pokemon: audino-mega
+Altura: 150 centimetros
+Peso: 32 kilos
+
+ Habilidades:
+ * Alma
+------------------
+
+------------------
+Pokemon: diancie-mega
+Altura: 110 centimetros
+Peso: 27 kilos
+
+ Habilidades:
+ * Espejo
+------------------
+
+------------------
+Pokemon: ninetales-alola
+Altura: 110 centimetros
+Peso: 19 kilos
+
+ Habilidades:
+ * Manto
+ * Nevada
+------------------
+
+------------------
+Pokemon: mimikyu-busted
+Altura: 20 centimetros
+Peso: 0 kilos
+
+ Habilidades:
+ * Disfraz
+------------------
+
+------------------
+Pokemon: mimikyu-totem-disguised
+Altura: 40 centimetros
+Peso: 2 kilos
+
+ Habilidades:
+ * Disfraz
+------------------
+
+------------------
+Pokemon: mimikyu-totem-busted
+Altura: 40 centimetros
+Peso: 2 kilos
+
+ Habilidades:
+ * Disfraz
+------------------
+
+------------------
+Pokemon: magearna-original
+Altura: 100 centimetros
+Peso: 80 kilos
+
+ Habilidades:
+ * Coránima
+------------------
+
+------------------
+Pokemon: ribombee-totem
+Altura: 40 centimetros
+Peso: 2 kilos
+
+ Habilidades:
+ * Recogemiel
+ * Polvo
+ * Velo
+------------------
+
+------------------
+Pokemon: rapidash-galar
+Altura: 170 centimetros
+Peso: 80 kilos
+
+ Habilidades:
+ * Fuga
+ * Velo
+ * Anticipación
+------------------
+
+------------------
+Pokemon: weezing-galar
+Altura: 300 centimetros
+Peso: 16 kilos
+
+ Habilidades:
+ * Levitación
+ * Gas
+ * Nebulogénesis
+------------------
+
+------------------
+Pokemon: zacian-crowned
+Altura: 280 centimetros
+Peso: 355 kilos
+
+ Habilidades:
+ * Espada
+------------------
+
