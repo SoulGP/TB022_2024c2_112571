@@ -30,8 +30,8 @@ for pokemon in ${lista_nombres_pokemon[@]}; do
         echo "Peso: $peso kilos"
         echo -e "\n Habilidades:"
         for habilidad in ${ability_id[@]}; do
-            nombre_habilidad=($(cat $directorio_ability_names_csv | cut -d "," -f 1,2,3 | grep ""$habilidad","$idioma"" | cut -d "," -f 3))
-            echo " * $nombre_habilidad"
+            nombre_habilidad=($(cat $directorio_ability_names_csv | cut -d "," -f 1,2,3 | grep ""^$habilidad","$idioma"" | cut -d "," -f 3))
+            echo " * ${nombre_habilidad[@]}"
         done
         echo -e "------------------\n"
     fi
