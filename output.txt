@@ -4,8 +4,8 @@ Altura: 130 centimetros
 Peso: 40 kilos
 
  Habilidades:
- * Gran
- * Muro
+ * Gran Encanto
+ * Muro Mágico
  * Ignorante
 ------------------
 
@@ -15,7 +15,7 @@ Altura: 100 centimetros
 Peso: 12 kilos
 
  Habilidades:
- * Gran
+ * Gran Encanto
  * Tenacidad
  * Cacheo
 ------------------
@@ -38,7 +38,7 @@ Peso: 48 kilos
 
  Habilidades:
  * Intimidación
- * Pies
+ * Pies Rápidos
  * Cobardía
 ------------------
 
@@ -81,7 +81,7 @@ Altura: 110 centimetros
 Peso: 10 kilos
 
  Habilidades:
- * Velo
+ * Velo Flor
  * Simbiosis
 ------------------
 
@@ -91,8 +91,8 @@ Altura: 80 centimetros
 Peso: 15 kilos
 
  Habilidades:
- * Alma
- * Velo
+ * Alma Cura
+ * Velo Aroma
 ------------------
 
 ------------------
@@ -101,7 +101,7 @@ Altura: 80 centimetros
 Peso: 5 kilos
 
  Habilidades:
- * Velo
+ * Velo Dulce
  * Liviano
 ------------------
 
@@ -111,8 +111,8 @@ Altura: 100 centimetros
 Peso: 23 kilos
 
  Habilidades:
- * Gran
- * Piel
+ * Gran Encanto
+ * Piel Feérica
 ------------------
 
 ------------------
@@ -132,7 +132,7 @@ Altura: 30 centimetros
 Peso: 5 kilos
 
  Habilidades:
- * Cuerpo
+ * Cuerpo Puro
  * Robustez
 ------------------
 
@@ -152,7 +152,7 @@ Altura: 300 centimetros
 Peso: 215 kilos
 
  Habilidades:
- * Aura
+ * Aura Feérica
 ------------------
 
 ------------------
@@ -161,7 +161,7 @@ Altura: 70 centimetros
 Peso: 8 kilos
 
  Habilidades:
- * Cuerpo
+ * Cuerpo Puro
 ------------------
 
 ------------------
@@ -171,7 +171,7 @@ Peso: 44 kilos
 
  Habilidades:
  * Torrente
- * Voz
+ * Voz Fluida
 ------------------
 
 ------------------
@@ -181,8 +181,8 @@ Peso: 0 kilos
 
  Habilidades:
  * Recogemiel
- * Polvo
- * Velo
+ * Polvo Escudo
+ * Velo Dulce
 ------------------
 
 ------------------
@@ -191,9 +191,9 @@ Altura: 10 centimetros
 Peso: 0 kilos
 
  Habilidades:
- * Velo
- * Primer
- * Cura
+ * Velo Flor
+ * Primer Auxilio
+ * Cura Natural
 ------------------
 
 ------------------
@@ -260,9 +260,9 @@ Altura: 210 centimetros
 Peso: 5 kilos
 
  Habilidades:
- * Alma
+ * Alma Cura
  * Anticipación
- * Espejo
+ * Espejo Mágico
 ------------------
 
 ------------------
@@ -282,8 +282,8 @@ Altura: 30 centimetros
 Peso: 0 kilos
 
  Habilidades:
- * Velo
- * Velo
+ * Velo Dulce
+ * Velo Aroma
 ------------------
 
 ------------------
@@ -292,7 +292,7 @@ Altura: 280 centimetros
 Peso: 110 kilos
 
  Habilidades:
- * Espada
+ * Espada Indómita
 ------------------
 
 ------------------
@@ -301,7 +301,7 @@ Altura: 160 centimetros
 Peso: 48 kilos
 
  Habilidades:
- * Piel
+ * Piel Feérica
 ------------------
 
 ------------------
@@ -319,7 +319,7 @@ Altura: 20 centimetros
 Peso: 0 kilos
 
  Habilidades:
- * Velo
+ * Velo Flor
  * Simbiosis
 ------------------
 
@@ -329,7 +329,7 @@ Altura: 150 centimetros
 Peso: 20 kilos
 
  Habilidades:
- * Piel
+ * Piel Feérica
 ------------------
 
 ------------------
@@ -338,7 +338,7 @@ Altura: 150 centimetros
 Peso: 32 kilos
 
  Habilidades:
- * Alma
+ * Alma Cura
 ------------------
 
 ------------------
@@ -347,7 +347,7 @@ Altura: 110 centimetros
 Peso: 27 kilos
 
  Habilidades:
- * Espejo
+ * Espejo Mágico
 ------------------
 
 ------------------
@@ -356,7 +356,7 @@ Altura: 110 centimetros
 Peso: 19 kilos
 
  Habilidades:
- * Manto
+ * Manto Níveo
  * Nevada
 ------------------
 
@@ -403,8 +403,8 @@ Peso: 2 kilos
 
  Habilidades:
  * Recogemiel
- * Polvo
- * Velo
+ * Polvo Escudo
+ * Velo Dulce
 ------------------
 
 ------------------
@@ -414,7 +414,7 @@ Peso: 80 kilos
 
  Habilidades:
  * Fuga
- * Velo
+ * Velo Pastel
  * Anticipación
 ------------------
 
@@ -425,7 +425,7 @@ Peso: 16 kilos
 
  Habilidades:
  * Levitación
- * Gas
+ * Gas Reactivo
  * Nebulogénesis
 ------------------
 
@@ -435,6 +435,6 @@ Altura: 280 centimetros
 Peso: 355 kilos
 
  Habilidades:
- * Espada
+ * Espada Indómita
 ------------------
 
