@@ -5,6 +5,9 @@ directorio_resultado_txt=$2
 if [[ $# -ne $argumentos_esperados ]]; then
     echo "Ingresaste unos argumentos invalidos. (se pide <padron> <directorio>)"
     exit 1
+elif ! [[ $padron =~ ^[0-9]+$ ]]; then
+    echo "<padron> debe ser un numero entero."
+    exit 1
 fi
 
 tipo_pokemon=$(expr $padron % 18 + 1)
