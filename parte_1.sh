@@ -1,6 +1,6 @@
 argumentos_esperados=2
-padron=112571
-directorio_resultado_txt=resultado
+padron=$1
+directorio_resultado_txt=$2
 
 if [[ $# -ne $argumentos_esperados ]]; then
     echo "Ingresaste unos argumentos invalidos. (se pide <padron> <directorio>)"
